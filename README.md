@@ -14,5 +14,5 @@ The `pynput` library allows for monitoring and controlling input devices. It can
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/SCT_CS_04.git
+   git clone https://github.com/kur1an/SCT_CS_04.git
    cd SCT_CS_04

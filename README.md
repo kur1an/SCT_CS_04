@@ -16,3 +16,5 @@ The `pynput` library allows for monitoring and controlling input devices. It can
    ```bash
    git clone https://github.com/kur1an/SCT_CS_04.git
    cd SCT_CS_04
+Run the Keylogger
+python keylogger.py
